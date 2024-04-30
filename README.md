@@ -1,0 +1,2 @@
+Aplikasi Catatan Menggunakan React
+Merupakan aplikasi catatan yang dibuat menggunakan framework JavaScript yaitu React.js, aplikasi ini dibuat dengan tujuan untuk menyimpan catatan. fitur yang ada seperti membuat catatan, menghapus, mencari catatan, dan mengarsipkan catatan.
