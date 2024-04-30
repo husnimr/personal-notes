@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-notes/static/css/main.58cac1f8.css",
+    "main.js": "/personal-notes/static/js/main.3266c29b.js",
+    "index.html": "/personal-notes/index.html",
+    "main.58cac1f8.css.map": "/personal-notes/static/css/main.58cac1f8.css.map",
+    "main.3266c29b.js.map": "/personal-notes/static/js/main.3266c29b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58cac1f8.css",
+    "static/js/main.3266c29b.js"
+  ]
+}
