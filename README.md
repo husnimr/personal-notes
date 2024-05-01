@@ -11,9 +11,12 @@ My Personal Notes merupakan aplikasi catatan yang dibuat menggunakan framework J
 - Batas Karakter pada Judul Catatan: Pastikan judul catatan Anda tetap rapi dengan batasan karakter yang ditetapkan.
 - Arsipkan Catatan yang Tidak Digunakan: Sembunyikan catatan yang tidak diperlukan dengan fitur arsip yang nyaman.
 
-## Cara Penggunaan
+## Penggunaan
 - Cloning Repositori: Salin repositori ini (atau fork, lalu salin fork Anda sendiri :) ).
 - Instalasi Paket: Jalankan <code>npm install</code> untuk menginstal semua paket yang diperlukan.
 - Mulai Penggunaan: Coba aplikasi dengan menjalankan <code>npm start</code>.
 
-https://husnimr.github.io/personal-notes/
+## Author
+- [Husni MR](https://github.com/husnimr/)
+- [LinkedIn](https://www.linkedin.com/in/husnimubarokramadhan/)
+- [Instagram](https://www.instagram.com/husnimbrrk)
